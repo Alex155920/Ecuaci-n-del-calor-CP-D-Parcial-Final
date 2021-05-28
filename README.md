@@ -28,7 +28,7 @@ Para realizar las pruebas y ver los resultados en tiempo real debe seguir los si
 
 ![image](https://user-images.githubusercontent.com/83742525/120038503-0188b400-bfc9-11eb-92b3-4ffa4eb893b0.png)
 
-**6.** Con ese comando se ejecutarà el porgrama y se repetirà 30 veces, con python y con cython, entregandole al final 3 resultados en una carpeta llamada "soluciones" que tendrà el teimpo empleado con python, el tiempo empleado por cython y el speed up
+**6.** Con ese comando se ejecutarà el porgrama y se repetirà 30 veces, con python y con cython, entregandole al final 3 resultados en una carpeta llamada "soluciones" que tendrà el tiempo empleado con python, el tiempo empleado por cython y el speedup respectivamente
 
 
 
