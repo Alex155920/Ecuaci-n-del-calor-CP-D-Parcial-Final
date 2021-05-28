@@ -22,6 +22,13 @@ Para realizar las pruebas y ver los resultados en tiempo real debe seguir los si
 
 **4.** Luego se debe ejecutar el comando "make" para construir los archivos del programa.
 
-**5.** Para empezar a realizar las pruebas se debe ejecutar el comando "python3 heat_main.py -f bottle.dat -e 30.
+**5.** Para empezar a realizar las pruebas se debe ejecutar el comando "python3 heat_main.py -f bottle.dat -e 30" o se puede ejecutar el comando "python3 heat_main.py".
+
+**Capturas de la terminal**
+
+![image](https://user-images.githubusercontent.com/83742525/120038503-0188b400-bfc9-11eb-92b3-4ffa4eb893b0.png)
 
 **6.** Con ese comando se ejecutarà el porgrama y se repetirà 30 veces, con python y con cython, entregandole al final 3 resultados en una carpeta llamada "soluciones" que tendrà el teimpo empleado con python, el tiempo empleado por cython y el speed up
+
+
+
