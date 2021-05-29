@@ -1,4 +1,4 @@
-/*
+'''
 ********************************************************
 * 	Presentadores:Rubén Alexis Núñez Montaña && 
 		      Jonathan Alexander Torres Benitez
@@ -6,7 +6,7 @@
 * 	Computación Paralela y Distribuida
 * 	Universidad Sergio Arboleda
 ********************************************************
-*/
+'''
 #from distutils.core import setup, Extension
 #from Cython.Build import cythonize
 
