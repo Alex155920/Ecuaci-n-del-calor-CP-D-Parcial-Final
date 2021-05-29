@@ -1,4 +1,4 @@
-/*
+'''
 ********************************************************
 * 	Presentadores:Rubén Alexis Núñez Montaña && 
 		      Jonathan Alexander Torres Benitez
@@ -6,7 +6,7 @@
 * 	Computación Paralela y Distribuida
 * 	Universidad Sergio Arboleda
 ********************************************************
-*/
+'''
 
 import numpy as np
 import matplotlib
